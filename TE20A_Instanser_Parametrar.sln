@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TE20A_Instanser_Parametrar", "TE20A_Instanser_Parametrar\TE20A_Instanser_Parametrar.csproj", "{AA685FA8-8732-4EFC-A5ED-1357F8A00CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA685FA8-8732-4EFC-A5ED-1357F8A00CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA685FA8-8732-4EFC-A5ED-1357F8A00CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA685FA8-8732-4EFC-A5ED-1357F8A00CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA685FA8-8732-4EFC-A5ED-1357F8A00CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
